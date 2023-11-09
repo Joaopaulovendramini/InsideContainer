@@ -8,5 +8,4 @@
 
      ```shell
      cd InsideContainer
-  ```shell
      docker compose up
